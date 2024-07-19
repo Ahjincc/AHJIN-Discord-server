@@ -26,6 +26,7 @@
 # POTDs
 - POTD
 - POTD Leaderboard
+- POTD Submission evaluation
 - POTD discussion
 - POTD Doubts
 # Software Development
