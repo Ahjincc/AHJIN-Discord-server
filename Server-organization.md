@@ -1,7 +1,7 @@
 # AHJIN-Discord-server
 # Entry point
 - Verify here
-- Navigator
+- Server Navigator
 - Rules
 # Important
 - Announcements
