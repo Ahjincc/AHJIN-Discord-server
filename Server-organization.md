@@ -52,5 +52,6 @@
 - Duels
 - Chess
 - Touch typing
-- 
+- Play music
+   - Music related VCs
 
