@@ -23,6 +23,11 @@
 - Post contest code snippet review/showcase
 - Tips & Tricks sharing for CP & DSA
 - Software/Setup for CP & DSA help
+# POTDs
+- POTD
+- POTD Leaderboard
+- POTD discussion
+- POTD Doubts
 # Software Development
 - Web development chat
    - Web dev resources
