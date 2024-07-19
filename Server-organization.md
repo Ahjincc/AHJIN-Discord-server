@@ -35,3 +35,7 @@
    - Game dev resources
    - Game dev help
 # AI & Machince Learning
+- AI & ML Chat
+   - AI & ML Resources
+   - AI & ML help
+
