@@ -7,7 +7,8 @@
 - Announcements
 - Self-roles
 - Welcome
-- Beginners corner
+- Beginner's corner
+- Resources Master Channel
 # AHJIN Lounge
 - General
 - Pics & Memes
