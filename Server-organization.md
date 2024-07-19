@@ -23,9 +23,9 @@
 - Software/Setup for CP & DSA help
 # Software Development
 - Web development
-   -Web dev help
+   - Web dev help
 - Android development
-   -Android dev help
+   - Android dev help
 - IOS development
    - IOS dev help     
 - Game development
