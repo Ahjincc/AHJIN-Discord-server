@@ -23,6 +23,10 @@
 - Software/Setup for CP & DSA help
 # Software Development
 - Web development
+   -Web dev help
 - Android development
-- IOS development        
-- Game development  
+   -Android dev help
+- IOS development
+   - IOS dev help     
+- Game development
+   - Game dev help
