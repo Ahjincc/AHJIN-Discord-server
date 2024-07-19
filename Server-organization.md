@@ -11,6 +11,7 @@
 - Resources Master Channel
 # AHJIN Lounge
 - General
+- Daily To-Do List/Accountability channel
 - Build your connections (share your socials)
 - Pics & Memes
 - Suggestions (A doubt forum style channel)
