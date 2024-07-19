@@ -48,6 +48,7 @@
 - Interview reminders
 - Resume review
 - Interview experience
+- Mock interviews (only for 2 VC)
 # Bot World
 - Verify cf handle
 - Bot use
