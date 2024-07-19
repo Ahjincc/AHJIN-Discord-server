@@ -8,6 +8,10 @@
 - Self-roles
 - Welcome
 - Beginners corner
+# AHJIN Lounge
+- General
+- Pics & Memes
+- Suggestions (A doubt forum style channel)
 # CP & DSA
 - Resources for CP & DSA
 - Contest reminder
@@ -17,7 +21,8 @@
 - Post contest code snippet review/showcase
 - Tips & Tricks sharing for CP & DSA
 - Software/Setup for CP & DSA help
-# AHJIN Lounge
-- General
-- Pics & Memes
-- Suggestions (A doubt forum style channel)
+# Software Development
+- Web development
+- Android development
+- IOS development        
+- Game development  
