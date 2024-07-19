@@ -35,8 +35,22 @@
 - Game development chat
    - Game dev resources
    - Game dev help
+- Projects showcase
 # AI & Machince Learning
 - AI & ML Chat
    - AI & ML Resources
    - AI & ML help
+# Research Papers
+- Latest research papers general
+- Research paper review, discussion & doubts
+# Interview Prep
+- Interview reminders
+- Interview experience
+# Bot World
+- Verify cf handle
+- Bot use
+- Duels
+- Chess
+- Touch typing
+- 
 
