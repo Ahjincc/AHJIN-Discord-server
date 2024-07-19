@@ -11,6 +11,7 @@
 - Resources Master Channel
 # AHJIN Lounge
 - General
+- Build your connections (share your socials)
 - Pics & Memes
 - Suggestions (A doubt forum style channel)
 # CP & DSA
@@ -45,6 +46,7 @@
 - Research paper review, discussion & doubts
 # Interview Prep
 - Interview reminders
+- Resume review
 - Interview experience
 # Bot World
 - Verify cf handle
@@ -54,4 +56,6 @@
 - Touch typing
 - Play music
    - Music related VCs
+# Server Stats
+- Stuff
 
